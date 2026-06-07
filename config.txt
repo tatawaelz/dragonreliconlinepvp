@@ -1,5 +1,5 @@
 Version=v1.0
-BaseUrl=https://github.com/tatawaelz/dragonreliconlinepvp/releases/tag/v1.0
+BaseUrl=https://github.com/tatawaelz/dragonreliconlinepvp/releases/download/v1.0/
 Discord=https://discord.gg/your_discord_code
 WhatsApp=https://wa.me/201xxxxxxxxx
 Facebook=https://facebook.com/your_page
