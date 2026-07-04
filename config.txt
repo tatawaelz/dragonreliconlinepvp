@@ -1,4 +1,4 @@
-Version=v3.0
+Version=v4.0
 BaseUrl=https://github.com/tatawaelz/dragonreliconlinepvp/releases/download/v4.0/
 Discord=https://discord.gg/BmEAV6fBk
 WhatsApp=https://wa.me/201xxxxxxxxx
