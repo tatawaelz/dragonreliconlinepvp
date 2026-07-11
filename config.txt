@@ -1,8 +1,8 @@
 Version=v6.0
 BaseUrl=https://github.com/tatawaelz/dragonreliconlinepvp/releases/download/v6.0/
-Discord=https://discord.gg/BmEAV6fBk
+Discord=https://discord.gg/2S27qYk4P
 WhatsApp=https://wa.me/201xxxxxxxxx
-Facebook=https://facebook.com/your_page
+Facebook=https://www.facebook.com/groups/dragonrelic
 Telegram=https://t.me/your_channel
 ElitePvpers=https://t.me/your_channel
 TikTok=https://t.me/your_channel
