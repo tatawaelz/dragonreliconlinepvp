@@ -1,6 +1,6 @@
 Version=v6.0
 BaseUrl=https://github.com/tatawaelz/dragonreliconlinepvp/releases/download/v6.0/
-Website=https://drelic.online
+Support=https://drelic.online
 Discord=https://discord.gg/2S27qYk4P
 WhatsApp=https://wa.me/201xxxxxxxxx
 Facebook=https://www.facebook.com/groups/dragonrelic
